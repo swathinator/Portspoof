@@ -21,7 +21,7 @@
 <pre>portspoof -s /etc/portspoof/portspoof_signatures</pre>
 <pre>nmap -p 1-10 -sV {YOUR LINUX IP}</pre>
 <img width="717" alt="Screenshot 2025-03-30 at 9 57 09 PM" src="https://github.com/user-attachments/assets/9aee84bb-25a0-4a89-9e98-a3eecefe9e5c" /><br><br>
-- For reference, a normal scan without Portspoof:
+- For reference, a normal scan without Portspoof running:
 <img width="755" alt="Screenshot 2025-03-30 at 10 06 38 PM" src="https://github.com/user-attachments/assets/388fe4b5-d307-4fd6-a5a9-452cb2e6f377" /><br><br>
 
 - You can flush all rules with this command:
