@@ -26,4 +26,5 @@ Full lab explanation available on my <a href="https://medium.com/@swathitadepall
 <img width="755" alt="Screenshot 2025-03-30 at 10 06 38 PM" src="https://github.com/user-attachments/assets/388fe4b5-d307-4fd6-a5a9-452cb2e6f377" /><br><br>
 
 - You can flush all rules with this command:
-<pre>sudo iptables -t nat -F</pre>
+<pre>sudo iptables -t nat -F</pre><br><br>
+<a href="https://github.com/swathinator/Homelabs">Back to Homelabs</a>
