@@ -1,5 +1,6 @@
 # Portspoof
-(Antisyphon training lab from Cyber Deception/Active Defense)
+(Antisyphon training lab from Cyber Deception/Active Defense)<br><br>
+Full lab explanation available on my <a href="https://medium.com/@swathitadepalli/active-defense-and-cyber-deception-antisyphon-training-44c0ee851be4#82d9">Medium</a>
 ## Portspoof
 - Become root in Kali: ```sudo su -```
 - Install Portspoof
